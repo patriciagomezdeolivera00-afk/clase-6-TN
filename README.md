@@ -11,4 +11,4 @@
 * hemos cambiado el nombre generado del proyecto por otro mas acorde a la necesidad de la clase
 
   adjunto link para su evaluacion y valoracion:
-  [[ANALITICA-WEB](linda-aritmética-0c8735.netlify.app)]
+  [[ANALITICA-WEB](https://cute-arithmetic-0c8735.netlify.app/)]
